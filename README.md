@@ -13,17 +13,17 @@ A user-focused README.md file that explains your process, methodology and findin
 
 # Findings
 
+* Has the proportion of recalls classified as Class I declined since President Trump took office?
+
+
+* Has the proportion of recall initiated by the FDA declined since President Trump took office?
+
+
+## Did the proportion of voluntary recalls from won by President Trump in the 2016 Presidential Election decline after the election?
+
+
 ## Did the proportion of Class I recalls from states won by President Trump in the 2016 Presidential Election decline after the election?
-
-
-
-
-# Hypothesis 1:
-H0: The proportion of Class I recalls in states won by Trump in the 2016 Presidential Election for the two years prior to January 20, 2017 is equal to the proportion of Class I recalls in those states in the two years after January 20, 2017 (inclusive). 
-
-H1: The proportion of Class I recalls in states won by Trump in the 2016 Presidential Election for the two years prior to January 20, 2017 is not equal to the proportion of Class I recalls in those states in the two years after January 20, 2017 (inclusive).
-
-
+ 
 # Hypothesis 2:
 H0: The proportion of Class 1 (most serious) recalls in the two years prior to January 20, 2017 is greater than or equal to the proportion of Class 1 recalls in the two years following January 20, 2017 (inclusive).
 
@@ -33,6 +33,13 @@ H1: The proportion of Class 1 (most serious) recalls in the two years prior to J
 H0: The proportion of FDA initiated recalls in the two years prior to January 20, 2017 is greater than or equal to the proportion of FDA initiated recalls in the two years following January 20, 2017 (inclusive).
 
 H1: The proportion of FDA initiated recalls in the two years prior to January 20, 2017 is less than the proportion of FDA initiated recalls in the two years following January 20, 2017 (inclusive).
+
+
+# Hypothesis 1:
+H0: The proportion of Class I recalls in states won by Trump in the 2016 Presidential Election for the two years prior to January 20, 2017 is equal to the proportion of Class I recalls in those states in the two years after January 20, 2017 (inclusive). 
+
+H1: The proportion of Class I recalls in states won by Trump in the 2016 Presidential Election for the two years prior to January 20, 2017 is not equal to the proportion of Class I recalls in those states in the two years after January 20, 2017 (inclusive).
+
 
 
 # Hypothesis 4:
