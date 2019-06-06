@@ -4,14 +4,21 @@
 Mod3 Project
 ==============================
 
-A user-focused README.md file that explains your process, methodology and findings.a.Take the time to make sure that you craft your story well, and clearly explain yourprocess and findings in a way that clearly shows both your technical expertiseand​ your ability to communicate your results!
+This project examines food recalls in the United States between January 20, 2015 and January 19, 2019. The data comes from the United States Food and Drug Administration (FDA) [Food Recall Enforcement Reports](https://open.fda.gov/downloads/) which includes information about the classification of the recall and the type of recall(i.e., voluntary or mandatory). Food recalls are classified into one of three classes. The FDA defines these classes as follows:
+
+"Class I recall: a situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.
+Class II recall: a situation in which use of or exposure to a violative product may cause temporary or medically reversible adverse health consequences or where the probability of serious adverse health consequences is remote.
+Class III recall: a situation in which use of or exposure to a violative product is not likely to cause adverse health consequences." (Source: [FDA](https://www.fda.gov/safety/industry-guidance-recalls/recalls-background-and-definitions))
+
+Recalls in the data set fall into three categories:
+  1. Voluntary: Firm Initiated- These recalls are voluntarily initiated by the recalling firm. Voluntary recalls make up approximately 97% of all recalls in the United States. 
+
+A user-focused README.md file that explains your process, methodology and findings.
+a.Take the time to make sure that you craft your story well, and clearly explain your process and findings in a way that clearly shows both your technical expertise and your ability to communicate your results!
 
 # Process
 
 
-"Class I recall: a situation in which there is a reasonable probability that the use of or exposure to a violative product will cause serious adverse health consequences or death.
-Class II recall: a situation in which use of or exposure to a violative product may cause temporary or medically reversible adverse health consequences or where the probability of serious adverse health consequences is remote.
-Class III recall: a situation in which use of or exposure to a violative product is not likely to cause adverse health consequences." (Source: https://www.fda.gov/safety/industry-guidance-recalls/recalls-background-and-definitions)
 
 # Methodology
 
