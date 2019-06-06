@@ -13,15 +13,15 @@ A user-focused README.md file that explains your process, methodology and findin
 
 # Findings
 
-## Has the proportion of recalls classified as Class I declined since President Trump took office?
+* Has the proportion of recalls classified as Class I declined since President Trump took office?
 
 
-## Has the proportion of recall initiated by the FDA declined since President Trump took office?
+* Has the proportion of recall initiated by the FDA declined since President Trump took office?
 
 
-## Did the proportion of voluntary recalls from won by President Trump in the 2016 Presidential Election decline after the election?
+* Did the proportion of voluntary recalls from won by President Trump in the 2016 Presidential Election decline after the election?
 
 
-## Did the proportion of Class I recalls from states won by President Trump in the 2016 Presidential Election decline after the election?
+* Did the proportion of Class I recalls from states won by President Trump in the 2016 Presidential Election decline after the election?
  
 
