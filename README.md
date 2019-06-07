@@ -52,10 +52,12 @@ Z-tests for the differences between two proportions are used to test the sets of
 # Findings
 
 * Has the proportion of recalls classified as Class I declined since President Trump took office?
-The hypothesis test was statistically significant (z-statistic: 15.6, p-value: 0.000) with a medium effect size (Cohen's h: 0.32). This result suggests that there is a true difference in Class I recalls between the two years prior and two years following President Trump's inauguration. Analysis of the yearly trend in the proportion of Class I recalls, however, shows that the difference can be explained by a declining trend in the proportion of Class I recalls between 2012 and 2019. 
+The hypothesis test was statistically significant (z-statistic: 15.6, p-value: 0.000) with a medium effect size (Cohen's h: 0.32). This result suggests that there is a true difference in Class I recalls between the two years prior and two years following President Trump's inauguration. Analysis of the yearly trend in the proportion of Class I recalls, however, shows that the difference can be explained by a declining trend in the proportion of Class I recalls between 2012 and 2019 and a spike in Class I recalls in 2016. Together, these results provide evidence that any change in the proportion of Class I recalls is not related to actions by the Trump Administration.
 
 * Has the proportion of recall initiated by the FDA declined since President Trump took office?
 The hypothesis test was statistically significant (z-statistic: 12.57, p-value: 0.000) with a medium effect size (Cohen's h: 0.29).
+
+
 
 * Did the proportion of voluntary recalls from won by President Trump in the 2016 Presidential Election decline after the election?
 The hypothesis test was statistically significant (z-statistic: 12.27, p-value: 0.000) with a medium effect size (Cohen's h: 0.25).
