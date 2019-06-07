@@ -72,8 +72,9 @@ The hypothesis test was statistically significant (z-statistic: 12.27, p-value: 
 
 The hypothesis test was not statistically significant (z-statistic: -0.4, p-value: 0.655) with a very small effect size (Cohen's h: -0.01). This result suggests that there is not a true difference in the proportion of Class I recalls initiated by firms in "Red States" between the two years prior and two years following President Trump's inauguration. Analysis of the yearly trend in the proportion of voluntary recalls in "Red States", however, shows an interesting pattern. Between 2012 and 2016, the proportion of Class I recalls in "Red States" oscillates between roughly 0.35 and 0.65. From 2016 through June of 2019, the annual proportion of Class I recalls in "Red States" has increased each year from a low of approximately 0.40 to 0.60 in June of 2019. An explanation for this change in pattern is unknown and requires further investigation. 
 
-# Limitations and Further Study
-Non-random sample
-
 # Recommendations
 Watch and investigate the trend in Class I recalls in "Red States".
+
+# Limitations and Further Study
+The analysis outlined above utilized z-tests for the difference in two proportions. The z-test requires that the samples being tested are randomly selected from the population under study. The population for this project is 
+
