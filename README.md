@@ -81,6 +81,7 @@ Based on the foregoing analysis, the following recommendations are proffered:
 * Oversight committees and organizations should watch the trend in voluntary recalls in "Red States" over the next two years. If the proportion of voluntary recalls continues to indicate a consistent pattern of "Red States" representing a smaller proportion of recalls than "Blue States", then further investigation into the cause of this pattern should be initiated. 
 * Oversight committees and organizations should watch the trend in Class I recalls in "Red States" over the next two years. If the proportion of Class I recalls continues to indicate a consistent pattern of "Red States" representing a larger proportion of recalls than "Blue States", then further investigation into the cause of this pattern should be initiated.  
 
-# Limitations
+# Limitations and Further Study
 The analysis outlined above utilized z-tests for the difference in two proportions. The z-test requires that the samples being tested are randomly selected from the population under study. The population for this project is not fully defined and, therefore, the randomness of the samples cannot be confirmed. If the samples deviate significantly from the population, then the results of the z-tests are misleading. 
 
+This project used individual recalls as the unit of analysis. Multiple recalls often make up a single recall event. For example, firm A issues a recall (an event) for multiple products(individual recalls). Further analysis should examine these hypotheses with the event as the unit of analysis. 
