@@ -50,9 +50,10 @@ Z-tests for the differences between two proportions are used to test a set of hy
 
 | Hypothesis    | Sample Prior to the Inauguration | Sample Following to the Inauguration |
 | ------------- |:--------------------------------:| ------------------------------------:|
-| col 3 is      | right-aligned                    |                                $1600 |
-| col 2 is      | centered                         |                                  $12 |
-| zebra stripes | are neat                         |                                   $1 |
+| Hypothesis 1  | 5605                             |                                 4470 |
+| Hypothesis 2  | 5605                             |                                 4470 |
+| Hypothesis 3  | 5325                             |                                 4441 |
+| Hypothesis 4  | 2595                             |                                 1386 |  
 
 # Findings
 
