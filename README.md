@@ -65,9 +65,7 @@ The hypothesis test was statistically significant (z-statistic: 12.57, p-value: 
 
 * Did the proportion of voluntary recalls from won by President Trump in the 2016 Presidential Election decline after the election?
 
-The hypothesis test was statistically significant (z-statistic: 12.27, p-value: 0.000) with a medium effect size (Cohen's h: 0.25). This result suggests that there is a true difference in proportion of voluntary recalls initiated by firms in "Red States" between the two years prior and two years following President Trump's inauguration. 
-
-Analysis of the yearly trend in the proportion of FDA mandated recalls, however, shows that the difference can be explained by a a spike in FDA initiated recalls in 2015. This spike is driven primarily by two recall events involving two producers of dietary supplements. Together, these results provide evidence that any change in the proportion of FDA initiated recalls is not related to actions by the Trump Administration.
+The hypothesis test was statistically significant (z-statistic: 12.27, p-value: 0.000) with a medium effect size (Cohen's h: 0.25). This result suggests that there is a true difference in proportion of voluntary recalls initiated by firms in "Red States" between the two years prior and two years following President Trump's inauguration. Analysis of the yearly trend in the proportion voluntary recalls, supports the hypothesis test results. Together, these results provide evidence that since President Trump's inauguration, "Red States" are voluntarily initiating recalls at a lower rate than they did prior to President Trump taking office. 
 
 
 * Did the proportion of Class I recalls from states won by President Trump in the 2016 Presidential Election decline after the election?
