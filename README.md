@@ -59,34 +59,28 @@ Z-tests for the differences between two proportions are used to test a set of hy
 
 * Has the proportion of recalls classified as Class I declined since President Trump took office?
 
-(Sample Sizes: Sample Prior to the Inauguration = 5605, Sample Following to the Inauguration = 4470)
-
 The hypothesis test was statistically significant (z-statistic: 15.6, p-value: 0.000) with a medium effect size (Cohen's h: 0.32). This result suggests that there is a true difference in Class I recalls between the two years prior and two years following President Trump's inauguration. Analysis of the yearly trend in the proportion of Class I recalls, however, shows that the difference can be explained by a declining trend in the proportion of Class I recalls between 2012 and 2019 and a spike in Class I recalls in 2016. Together, these results provide evidence that any change in the proportion of Class I recalls is not related to actions by the Trump Administration.
 
 
 * Has the proportion of recalls initiated by the FDA declined since President Trump took office?
-
-(Sample Sizes: Sample Prior to the Inauguration = 5605, Sample Following to the Inauguration = 4470)
 
 The hypothesis test was statistically significant (z-statistic: 12.57, p-value: 0.000) with a medium effect size (Cohen's h: 0.29). This result suggests that there is a true difference in FDA initiated recalls between the two years prior and two years following President Trump's inauguration. Analysis of the yearly trend in the proportion of FDA mandated recalls, however, shows that the difference can be explained by a a spike in FDA initiated recalls in 2015. This spike is driven primarily by two recall events involving two producers of dietary supplements. Together, these results provide evidence that any change in the proportion of FDA initiated recalls is not related to actions by the Trump Administration.
 
 
 * Did the proportion of voluntary recalls from won by President Trump in the 2016 Presidential Election decline after the election?
 
-(Sample Sizes: Sample Prior to the Inauguration = 5325, Sample Following to the Inauguration = 4441)
-
 The hypothesis test was statistically significant (z-statistic: 12.27, p-value: 0.000) with a medium effect size (Cohen's h: 0.25). This result suggests that there is a true difference in proportion of voluntary recalls initiated by firms in "Red States" between the two years prior and two years following President Trump's inauguration. Analysis of the yearly trend in the proportion voluntary recalls, supports the hypothesis test results. Together, these results provide evidence that since President Trump's inauguration, "Red States" are voluntarily initiating recalls at a lower rate than they did prior to President Trump taking office. 
 
 
 * Did the proportion of Class I recalls from states won by President Trump in the 2016 Presidential Election decline after the election?
 
-(Sample Sizes: Sample Prior to the Inauguration = 2595, Sample Following to the Inauguration = 1386)
-
 The hypothesis test was not statistically significant (z-statistic: -0.4, p-value: 0.655) with a very small effect size (Cohen's h: -0.01). This result suggests that there is not a true difference in the proportion of Class I recalls initiated by firms in "Red States" between the two years prior and two years following President Trump's inauguration. Analysis of the yearly trend in the proportion of voluntary recalls in "Red States", however, shows an interesting pattern. Between 2012 and 2016, the proportion of Class I recalls in "Red States" oscillates between roughly 0.35 and 0.65. From 2016 through June of 2019, the annual proportion of Class I recalls in "Red States" has increased each year from a low of approximately 0.40 to 0.60 in June of 2019. An explanation for this change in pattern is unknown and requires further investigation. 
 
 # Recommendations
-Watch and investigate the trend in Class I recalls in "Red States".
+Based on the foregoing analysis, the following recommendations are proffered:
+* Oversight committees and organizations should watch the trend in voluntary recalls in "Red States" over the next two years. If the proportion of voluntary recalls continues to indicate a consistent pattern of "Red States" representing a smaller proportion of recalls than "Blue States", then further investigation into the cause of this pattern should be initiated. 
+* Oversight committees and organizations should watch the trend in Class I recalls in "Red States" over the next two years. If the proportion of Class I recalls continues to indicate a consistent pattern of "Red States" representing a larger proportion of recalls than "Blue States", then further investigation into the cause of this pattern should be initiated.  
 
-# Limitations and Further Study
-The analysis outlined above utilized z-tests for the difference in two proportions. The z-test requires that the samples being tested are randomly selected from the population under study. The population for this project is 
+# Limitations
+The analysis outlined above utilized z-tests for the difference in two proportions. The z-test requires that the samples being tested are randomly selected from the population under study. The population for this project is not fully defined and, therefore, the randomness of the samples cannot be confirmed. If the samples deviate significantly from the population, then the results of the z-tests are misleading. 
 
