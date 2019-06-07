@@ -48,12 +48,12 @@ The following steps were conducted as part of this project:
 
 Z-tests for the differences between two proportions are used to test a set of hypotheses. The hypothesis tests are one-tailed (upper-tail) tests designed to evaluate whether the proportion being tested declines after President Trump's inauguration. Sample sizes for each hypothesis are provided in the table below.  In addition to z-tests, trends from 2012 to 2019 are analyzed. The trend analyses evaluate whether the z-test results reflect a true change relative to the beginning of the Trump Administration or the continuation of a trend beginning prior to President Trump's inauguration. 
 
-| Hypothesis    | Sample Prior to the Inauguration | Sample Following to the Inauguration |
-| ------------- |:--------------------------------:| :-----------------------------------:|
-| Hypothesis 1  | 5605                             |                                 4470 |
-| Hypothesis 2  | 5605                             |                                 4470 |
-| Hypothesis 3  | 5325                             |                                 4441 |
-| Hypothesis 4  | 2595                             |                                 1386 |  
+| Hypothesis    | Sample Size Prior to the Inauguration | Sample Size Following to the Inauguration |
+| ------------- |:-------------------------------------:| :-----------------------------------:|
+| Hypothesis 1  | 5605                                  |                                 4470 |
+| Hypothesis 2  | 5605                                  |                                 4470 |
+| Hypothesis 3  | 5325                                  |                                 4441 |
+| Hypothesis 4  | 2595                                  |                                 1386 |  
 
 # Findings
 
